@@ -26,7 +26,7 @@ amazon-clone/
 │── index.html
 │── style.css
 │── images/
-│ └── (all product and logo images)
+    └── (all product and logo images)
 
 
 ---
