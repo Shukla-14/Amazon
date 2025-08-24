@@ -22,12 +22,13 @@ This project is made for practice and learning purposes, focusing on layout, des
 ---
 
 ## 📂 Project Structure
+```
 amazon-clone/
 │── index.html
 │── style.css
-│── images/
-    └── (all product and logo images)
-
+│── images
+    (all product and logo images)
+```
 
 ---
 
